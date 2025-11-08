@@ -1,5 +1,5 @@
 
-# Trabalho---Sistema-Acadêmico-de-Matrículas
+# Sistema-Acadêmico-de-Matrículas
 
  <p> create database sistema_academico_de_matriculas; <p>
  <p> use sistema_academico_de_matriculas; <p>
