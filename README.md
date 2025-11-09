@@ -1,4 +1,4 @@
-# Sistema Acadêmico — Projeto de Banco de Dados
+# Sistema Acadêmico  de Matrículas — Projeto de Banco de Dados
 
 > Este projeto foi desenvolvido como parte da disciplina **Banco de Dados**, com o objetivo de **modelar e implementar um sistema acadêmico simples** utilizando **comandos SQL**.  
 >  
